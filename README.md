@@ -1,1 +1,1 @@
-# les-modules_js
+# Les modules JavaScript (es6)
